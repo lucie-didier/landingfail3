@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=Lora");
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/bio.css");
+@import url("components/socialmedia.css");
+@import url("components/video.css");
+@import url("components/second.css");
+
+body {
+	font-family: Montserrat;
+	font-size: 18px;
+	margin: 0px;
+	width: 100%;
+	position: absolute;
+	top: 0; left: 0;
+}
+h1,h2,h3 {
+	font-family: Montserrat;
+	font-weight: bold;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+

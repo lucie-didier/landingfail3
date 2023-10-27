@@ -1,0 +1,20 @@
+.socialmedia {
+	list-style: none;
+	padding-left: 0px;
+}
+.socialmedia li {
+	display: inline;
+	padding: 10px;
+}
+.socialmedia i {
+	font-size: 50px;
+	color: #453C82;
+}
+.socialmedia i:hover {
+	color: #2c362b;
+}
+
+.icons-center {
+	text-align: center;
+	padding: 40px;
+}

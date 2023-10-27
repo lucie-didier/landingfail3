@@ -1,0 +1,11 @@
+.second {
+	display: flex;
+	flex-wrap: wrap;
+	flex-grow: 1;
+	justify-content: space-between;
+	padding: 10px;
+}
+
+.profile img {
+	width: 303px;
+}
